@@ -2,22 +2,22 @@
 
 export const books = [
     {
-        author: 'Jon Duckete',
-        title: 'HTML & CSS design and build website',
-        img: './images/book-2.jpg',
+        author: 'Inspiring Squad',
+        title: 'Face Your Struggles Alone - David Goggins ',
+        videoUrl: 'https://www.youtube.com/watch?v=wDC-tFGYT4Y',
         id: 1
     },
 
     {
-        author: 'Cal Newport',
-        title: 'How to Become a Straight A Student',
-        img: './images/book-3.jpg',
+        author: 'Inspiring Squad',
+        title: 'Being Alone Will Make You Full Time SAVAGE ',
+        videoUrl: 'https://www.youtube.com/watch?v=jR6h3yW1R1A',
         id: 2
     },
     {
-        author: 'Marjin Haverbeke',
-        title: 'Eloquent Javascript',
-        img: 'https://m.media-amazon.com/images/I/51InjRPaF7L._SY445_SX342_.jpg',
+        author: 'Growth Aspect',
+        title: 'David Goggins, True Dog Mentality ',
+        videoUrl: 'https://www.youtube.com/watch?v=VORUW-sFvjg',
         id: 3
     },
 ];

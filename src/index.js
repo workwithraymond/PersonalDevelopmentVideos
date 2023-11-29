@@ -10,7 +10,7 @@ function Booklist () {
   
     return(
         <>
-        <h1>Amazon best sellers</h1>
+        <h1>Recommended Personal Development Videos</h1>
         <section className='booklist'>
             
             {books.map((book, index) => {
